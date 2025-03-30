@@ -7,5 +7,5 @@ Dijkstra si A* Algorithms - base - not-optimized<br>
 Unpotimized Algorithms - others - base - not optimized<br>
 Other Project Requirements<br>
 <br>
-<b>Saptamana 3 (24.03 -> 30.04)</b><br> 👈 **You are here** <br>
+<b>Saptamana 3 (24.03 -> 30.04)</b> 👈 **You are here** <br>
 MATLAB implementation<br>
